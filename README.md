@@ -10,3 +10,5 @@
 - `conda activate MVP`  
 - `pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html`  
 4. 安装Centeroint和detectron2
+## 6015：  
+1. 下载nuScenes数据集发现硬盘满了:-(，准备换个2T硬盘再开始。
